@@ -1,0 +1,47 @@
+
+{% assign posts = site.categories['work'] | sort:"order" %}
+{% assign first = posts[0] %}
+{% assign last = posts[-1] %}
+
+{% assign previous = first %}
+{% assign next = first %}
+{% assign save_next = false %}
+
+{% for post in posts %}
+  {% if save_next %}
+    {% assign next = post %}
+    {% assign save_next = false %}
+  {% endif %}
+
+  {% if post.id == page.id %}
+    {% assign current = post %}
+    {% assign save_next = true %}
+    {% assign current_position = forloop.index0 %}
+  {% endif %}
+
+  {% if current %}
+  {% else %}
+    {% assign previous = post %}
+  {% endif %}
+{% endfor %}
+
+<div class="row">
+  <div class="col col-md-4 col-sm-4 col-xs-4">
+    {% if current_position > 0 %}
+      <a class="browser-left" href="{{ previous.url }}" title="{{ previous.title }}">
+      </a>
+    {% endif %}
+  </div>
+
+  <div class="col col-md-4 col-sm-4 col-xs-4" style="text-align: center;">
+    <a class="browser-all" title="My work" href="/">
+    </a>
+  </div>
+
+  <div class="col col-md-4 col-sm-4 col-xs-4" style="text-align: right;">
+    {% if page.id != last.id %}
+      <a class="browser-right" href="{{ next.url }}" title="{{ next.title }}">
+      </a>
+    {% endif %}
+  </div>
+</div>

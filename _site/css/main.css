@@ -1,0 +1,218 @@
+body {
+  font-family: Merriweather, sans-serif;
+  font-size: 15px;
+  line-height: 30px;
+}
+
+a, a:visited {
+  color: #959595;
+}
+
+a:hover {
+  color: #777;
+}
+
+
+h1, h2, ul, li, p {
+  margin: 0px;
+  padding: 0px;
+}
+
+ul {
+  list-style: none;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.navbar-main, footer, section, .post {
+  padding: 50px 0;
+  background: #FFF;
+}
+
+.separator {
+  border: 1px solid #DDD;
+  border-width: 1px 0 0 0;
+}
+
+.navbar-main li {
+  font-size: 1.8em;
+}
+
+.work .col {
+  height: 100%;
+  overflow: hidden;
+}
+
+.work .col-title {
+  margin-bottom: 15px;
+}
+
+.row:last-child {
+  margin-bottom: 0;
+}
+
+.work .col img {
+  width: 100%;
+}
+
+.gray {
+  background: #F2F2F2;
+}
+
+.footer {
+  background: #fefefe;
+  padding-bottom: 0;
+}
+
+.footer h2 {
+  margin-bottom: 20px;
+}
+
+.footer img {
+  width: 80%;
+}
+
+.about-me {
+  margin-top: 20px;
+}
+
+.post, footer {
+  font-size: 1.3em;
+}
+
+.post p, .post h1 {
+  margin-bottom: 20px;
+}
+
+.post-content {
+}
+
+.post .post-content img {
+  width: 100%;
+}
+
+.expandable-image img {
+  width: 100%;
+}
+
+/*------------------ Responsive overrides --------------------*/
+
+@media (min-width: 1200px) {
+  .container {
+    width: 1150px;
+  }
+
+  .row {
+    margin-bottom: 30px;
+  }
+}
+
+@media (min-width: 992px) {
+  .row {
+  }
+}
+
+@media (min-width: 768px) {
+  .work img {
+  }
+}
+
+@media (max-width: 768px) {
+  .navbar-main {
+    padding: 10px 0;
+  }
+}
+
+.social-channel {
+  font-size: 1.5em;
+  margin-top: 20px;
+}
+
+.social-channel a {
+  color: #333;
+}
+
+.social-channel a:hover {
+  color: #777;
+}
+
+.social-channel li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.work-item-main {
+  height: 100%;
+}
+
+.work-item-about {
+  display: none;
+}
+
+.work-item.active .work-item-main {
+}
+
+.work-item.active .work-item-about {
+  color: rgba(255, 255, 255, 0.5);
+  position: absolute;
+  top: 0;
+  left: 15px;
+  display: block;
+  background: rgba(51, 51, 51, 0.9);
+}
+
+.work-item-about-content {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 20%;
+}
+
+.browser {
+  margin-bottom: 50px;
+}
+
+.browser img {
+  width: 35px;
+  height: 35px;
+}
+
+.browser .col {
+}
+
+.browser a, .browser a:hover {
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  background-size: 35px 35px;
+}
+
+.browser-left {
+  background: url(/images/icons/left.png);
+}
+
+.browser-all {
+  background: url(/images/icons/all.png);
+}
+
+.browser-right {
+  background: url(/images/icons/right.png);
+}
+
+.browser-left:hover {
+  background: url(/images/icons/left.dark.png);
+}
+
+.browser-all:hover {
+  background: url(/images/icons/all.dark.png);
+}
+
+.browser-right:hover {
+  background: url(/images/icons/right.dark.png);
+}
+
+.logo img {
+  width: 30%;
+  height: 30%;
+}

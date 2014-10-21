@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Danielle Vicosa</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://daniellevicosa.com/</link>
+    <atom:link href="http://daniellevicosa.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 22 Oct 2014 01:37:00 +0200</pubDate>
+    <lastBuildDate>Wed, 22 Oct 2014 01:37:00 +0200</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>My First Post</title>
+        <description>This is &lt;strong&gt;a test&lt;/strong&gt; brother.
+</description>
+        <pubDate>Tue, 16 Sep 2014 21:53:58 +0200</pubDate>
+        <link>http://daniellevicosa.com/blog/first-post</link>
+        <guid isPermaLink="true">http://daniellevicosa.com/blog/first-post</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Movie Discovery (prototype)</title>
+        <description>&lt;header class=&quot;row post-header&quot;&gt;
+  &lt;div class=&quot;col-md-8 col-sm-12 col-xs-12&quot;&gt;
+    &lt;h1 class=&quot;post-header-title&quot;&gt;Movie Discovery&lt;/h1&gt;
+    &lt;p class=&quot;post-header-content&quot;&gt;
+      Development of the prototype of an iOS app. &quot;Movie Discovery&quot; is an iOS application
+      that allow users to find good movies and series to watch, filtering by different criterias.
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/header&gt;
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;div class=&quot;expandable-image&quot;&gt;
+      &lt;img src=&quot;/images/work/movie-discovery/1-100.jpg&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;div class=&quot;expandable-image&quot;&gt;
+      &lt;img src=&quot;/images/work/movie-discovery/2-100.jpg&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;div class=&quot;expandable-image&quot;&gt;
+      &lt;img src=&quot;/images/work/movie-discovery/3-100.jpg&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;div class=&quot;expandable-image&quot;&gt;
+      &lt;img src=&quot;/images/work/movie-discovery/4-100.jpg&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 16 Sep 2014 00:00:00 +0200</pubDate>
+        <link>http://daniellevicosa.com/work/movie-discovery</link>
+        <guid isPermaLink="true">http://daniellevicosa.com/work/movie-discovery</guid>
+        
+        
+        <category>work</category>
+        
+      </item>
+    
+      <item>
+        <title>Mamae - mamaeapp.com</title>
+        <description>&lt;header class=&quot;row post-header&quot;&gt;
+  &lt;div class=&quot;col-md-8 col-sm-12 col-xs-12&quot;&gt;
+    &lt;h1 class=&quot;post-header-title&quot;&gt;Mamae&lt;/h1&gt;
+    &lt;p class=&quot;post-header-content&quot;&gt;
+      Development of the iOS app, dashboard and promotional website design. &quot;Mamae&quot; helps moms
+      to keep track of their baby&#39;s daily activities in an easy way.
+    &lt;/p&gt;
+
+    &lt;p class=&quot;post-header-content&quot;&gt;
+      Site: &lt;a href=&quot;http://www.mamaeapp.com&quot;&gt;www.mamaeapp.com&lt;/a&gt;
+    &lt;/p&gt;
+
+    &lt;p class=&quot;post-header-content&quot;&gt;
+      &lt;a href=&quot;https://itunes.apple.com/us/app/mamae-nursing-pumping-bottle/id905005550?mt=8&amp;uo=4&quot; target=&quot;itunes_store&quot; style=&quot;display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_appstore-lrg.png) no-repeat;width:135px;height:40px;@media only screen{background-image:url(https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_appstore-lrg.svg);}&quot;&gt;&lt;/a&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/header&gt;
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;div class=&quot;expandable-image&quot;&gt;
+      &lt;img src=&quot;/images/work/mamae/1-100.jpg&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;div class=&quot;expandable-image&quot;&gt;
+      &lt;img src=&quot;/images/work/mamae/2-100.jpg&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-6 col-sm-6&quot;&gt;
+    &lt;div class=&quot;icons-slide expandable-image gray&quot;&gt;
+      &lt;img src=&quot;/images/work/mamae/icons/1.png&quot;&gt;&lt;/img&gt;
+      &lt;img src=&quot;/images/work/mamae/icons/2.png&quot;&gt;&lt;/img&gt;
+      &lt;img src=&quot;/images/work/mamae/icons/3.png&quot;&gt;&lt;/img&gt;
+      &lt;img src=&quot;/images/work/mamae/icons/4.png&quot;&gt;&lt;/img&gt;
+      &lt;img src=&quot;/images/work/mamae/icons/5.png&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;col-md-6 col-sm-6&quot;&gt;
+    &lt;div class=&quot;gray expandable-image&quot;&gt;
+      &lt;img src=&quot;/images/work/mamae/3-50.png&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;div class=&quot;expandable-image&quot;&gt;
+      &lt;img src=&quot;/images/work/mamae/4-100.jpg&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;div class=&quot;expandable-image&quot;&gt;
+      &lt;img src=&quot;/images/work/mamae/5-100.jpg&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;div class=&quot;expandable-image&quot;&gt;
+      &lt;img src=&quot;/images/work/mamae/6-100.jpg&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;div class=&quot;expandable-image&quot;&gt;
+      &lt;img src=&quot;/images/work/mamae/7-100.jpg&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 16 Sep 2014 00:00:00 +0200</pubDate>
+        <link>http://daniellevicosa.com/work/mamae</link>
+        <guid isPermaLink="true">http://daniellevicosa.com/work/mamae</guid>
+        
+        
+        <category>work</category>
+        
+      </item>
+    
+      <item>
+        <title>iLearn English - ilearnenglishapp.com</title>
+        <description>&lt;header class=&quot;row post-header&quot;&gt;
+  &lt;div class=&quot;col-md-8 col-sm-12 col-xs-12&quot;&gt;
+    &lt;h1 class=&quot;post-header-title&quot;&gt;iLearn English&lt;/h1&gt;
+    &lt;p class=&quot;post-header-content&quot;&gt;
+      Development of the iOS app and promotional website design. &quot;iLearn: English&quot;
+      is an iOS app that allow users to learn new words and practice their
+      writing and listening skills.
+    &lt;/p&gt;
+
+    &lt;p class=&quot;post-header-content&quot;&gt;
+      Site: &lt;a href=&quot;http://www.ilearnenglishapp.com&quot;&gt;www.ilearnenglishapp.com&lt;/a&gt;
+    &lt;/p&gt;
+
+    &lt;p class=&quot;post-header-content&quot;&gt;
+      &lt;a href=&quot;https://itunes.apple.com/us/app/learn-english-ilearn-english/id624466757?mt=8&amp;uo=4&quot; target=&quot;itunes_store&quot; style=&quot;display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_appstore-lrg.png) no-repeat;width:135px;height:40px;@media only screen{background-image:url(https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_appstore-lrg.svg);}&quot;&gt;&lt;/a&gt;
+    &lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/header&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;div class=&quot;expandable-image&quot;&gt;
+      &lt;img src=&quot;/images/work/ilearn/2-100.jpg&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-md-6 col-sm-6&quot;&gt;
+    &lt;div class=&quot;icons-slide expandable-image gray&quot;&gt;
+      &lt;img src=&quot;/images/work/ilearn/icons/1.png&quot;&gt;&lt;/img&gt;
+      &lt;img src=&quot;/images/work/ilearn/icons/2.png&quot;&gt;&lt;/img&gt;
+      &lt;img src=&quot;/images/work/ilearn/icons/3.png&quot;&gt;&lt;/img&gt;
+      &lt;img src=&quot;/images/work/ilearn/icons/4.png&quot;&gt;&lt;/img&gt;
+      &lt;img src=&quot;/images/work/ilearn/icons/5.png&quot;&gt;&lt;/img&gt;
+      &lt;img src=&quot;/images/work/ilearn/icons/6.png&quot;&gt;&lt;/img&gt;
+      &lt;img src=&quot;/images/work/ilearn/icons/7.png&quot;&gt;&lt;/img&gt;
+      &lt;img src=&quot;/images/work/ilearn/icons/8.png&quot;&gt;&lt;/img&gt;
+      &lt;img src=&quot;/images/work/ilearn/icons/9.png&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;col-md-6 col-sm-6&quot;&gt;
+    &lt;div class=&quot;gray expandable-image&quot;&gt;
+      &lt;img src=&quot;/images/work/ilearn/3-50.png&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;div class=&quot;expandable-image&quot;&gt;
+      &lt;img src=&quot;/images/work/ilearn/4-100.jpg&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;div class=&quot;expandable-image&quot;&gt;
+      &lt;img src=&quot;/images/work/ilearn/5-100.jpg&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;div class=&quot;expandable-image&quot;&gt;
+      &lt;img src=&quot;/images/work/ilearn/6-100.jpg&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;div class=&quot;expandable-image&quot;&gt;
+      &lt;img src=&quot;/images/work/ilearn/7-100.jpg&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 16 Sep 2014 00:00:00 +0200</pubDate>
+        <link>http://daniellevicosa.com/work/ilearn</link>
+        <guid isPermaLink="true">http://daniellevicosa.com/work/ilearn</guid>
+        
+        
+        <category>work</category>
+        
+      </item>
+    
+      <item>
+        <title>elviovicosa.com</title>
+        <description>&lt;header class=&quot;row post-header&quot;&gt;
+  &lt;div class=&quot;col-md-8 col-sm-12 col-xs-12&quot;&gt;
+    &lt;h1 class=&quot;post-header-title&quot;&gt;elviovicosa.com&lt;/h1&gt;
+    &lt;p class=&quot;post-header-content&quot;&gt;
+      Development of the website and blog for Elvio Vicosa. Both site and blog are responsive,
+      and they were created with the content in mind, making it really clean and easy
+      to read the technical posts.
+    &lt;/p&gt;
+
+    &lt;p class=&quot;post-header-content&quot;&gt;
+      Site: &lt;a href=&quot;http://www.elviovicosa.com&quot;&gt;www.elviovicosa.com&lt;/a&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/header&gt;
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;div class=&quot;expandable-image&quot;&gt;
+      &lt;img src=&quot;/images/work/elviovicosa/6-100.jpg&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-6 col-sm-6&quot;&gt;
+    &lt;div class=&quot;gray expandable-image&quot;&gt;
+      &lt;img src=&quot;/images/work/elviovicosa/3-50.jpg&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;col-md-6 col-sm-6&quot;&gt;
+    &lt;div class=&quot;gray expandable-image gray&quot;&gt;
+      &lt;img src=&quot;/images/work/elviovicosa/5-50.png&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;div class=&quot;expandable-image&quot;&gt;
+      &lt;img src=&quot;/images/work/elviovicosa/2-100.jpg&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 16 Sep 2014 00:00:00 +0200</pubDate>
+        <link>http://daniellevicosa.com/work/elviovicosa</link>
+        <guid isPermaLink="true">http://daniellevicosa.com/work/elviovicosa</guid>
+        
+        
+        <category>work</category>
+        
+      </item>
+    
+  </channel>
+</rss>
