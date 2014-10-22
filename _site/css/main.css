@@ -111,17 +111,38 @@ ul {
 
 @media (min-width: 992px) {
   .row {
+    margin-bottom: 30px;
   }
 }
 
 @media (min-width: 768px) {
+  .row {
+    margin-bottom: 30px;
+  }
+
   .work img {
   }
 }
 
 @media (max-width: 768px) {
+  .navbar-header {
+    float: right;
+  }
+
   .navbar-main {
     padding: 10px 0;
+  }
+
+  .work-item {
+    margin-bottom: 10px;
+  }
+
+  .post-header {
+    padding: 0 15px;
+  }
+
+  .post .row {
+    margin-bottom: 15px;
   }
 }
 
