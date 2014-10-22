@@ -15,6 +15,12 @@ function changeIcons() {
 };
 
 function changeWorkInfo() {
+  var windowWidth = $(window).width();
+
+  if (windowWidth <= 768) {
+    return;
+  }
+
   $('.work-item').mouseover(function() {
     var w = this.clientWidth - 30;
     var h = this.clientHeight;

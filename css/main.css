@@ -170,6 +170,7 @@ ul {
 
 .work-item-about {
   display: none;
+  line-height: 20px;
 }
 
 .work-item.active .work-item-main {
