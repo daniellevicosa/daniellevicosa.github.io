@@ -1,29 +1,22 @@
-<div class="navbar navbar-default navbar-main" role="navigation">
-  <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-    </div>
-
+<div class="container">
+  <header class="main-header">
     <div class="pull-left logo">
       <a href="/">
         <img src="/images/logo.png">
       </a>
     </div>
 
-    <div class="collapse navbar-collapse pull-right">
-      <ul class="nav navbar-nav">
-        {% if page.category == "blog" %}
-        {% elsif page.category == "work" %}
-          <li><a href="/blog">Blog</a></li>
-        {% else %}
-          <li><a href="/blog">Blog</a></li>
-        {% endif %}
-      </ul>
+    <div class="pull-right blog-link">
+      {% if page.category == "blog" %}
+      {% elsif page.category == "work" %}
+        <a href="/blog">Blog</a>
+      {% else %}
+        <a href="/blog">Blog</a>
+      {% endif %}
     </div>
-  </div>
+
+    <div class="clearfix"></div>
+  </header>
 </div>
+
+<div class="separator"></div>
