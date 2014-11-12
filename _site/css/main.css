@@ -183,6 +183,10 @@ ul {
 }
 
 @media (max-width: 500px) {
+  .blog-link {
+    margin-top: -10px;
+  }
+
   .logo {
     width: 70%;
   }
