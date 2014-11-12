@@ -182,6 +182,12 @@ ul {
   }
 }
 
+@media (max-width: 500px) {
+  .logo {
+    width: 70%;
+  }
+}
+
 .social-channel {
   font-size: 1.5em;
   margin-top: 20px;
