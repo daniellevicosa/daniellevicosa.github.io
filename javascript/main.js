@@ -14,27 +14,6 @@ function changeIcons() {
   setInterval(changeActiveIcon, 1000);
 };
 
-function changeWorkInfo() {
-  var windowWidth = $(window).width();
-
-  if (windowWidth <= 768) {
-    return;
-  }
-
-  $('.work-item').mouseover(function() {
-    var w = this.clientWidth - 30;
-    var h = this.clientHeight;
-
-    $(this).addClass('active');
-    $(this).find('.work-item-about').css({width: w + 'px', height: h + 'px'});
-  });
-
-  $('.work-item').mouseout(function() {
-    $(this).removeClass('active');
-  });
-};
-
 $(document).ready(function() {
   changeIcons();
-  changeWorkInfo();
 });

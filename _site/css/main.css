@@ -1,3 +1,11 @@
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -o-font-smoothing: antialiased;
+
+  text-shadow: rgba(0,0,0,.01) 0 0 1px;
+}
+
 body {
   font-family: Merriweather, sans-serif;
   font-size: 15px;
@@ -160,6 +168,10 @@ ul {
   footer {
     margin-bottom: 30px;
   }
+
+  .avatar img {
+    width: 100%;
+  }
 }
 
 @media (min-width: 768px) and (max-width: 992px) {
@@ -215,28 +227,33 @@ ul {
 }
 
 .work-item-about {
-  display: none;
-  line-height: 20px;
-  -webkit-transition: all 1s linear;
-  -moz-transition: all 1s linear;
-  -o-transition: all 1s linear;
-  transition: all 1s linear;
-}
-
-.work-item.active .work-item-about {
+  /*display: none;*/
   color: rgba(255, 255, 255, 0.5);
   position: absolute;
   top: 0;
   left: 15px;
   display: block;
   background-color: rgba(255, 255, 255, 0.8);
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+
+  line-height: 20px;
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  transition: all 1s ease;
+}
+
+.work-item-about:hover {
+  opacity: 1;
 }
 
 .work-item-about-content {
   text-align: center;
   width: 50%;
   margin: 0 auto;
-  margin-top: 20%;
+  margin-top: 10%;
   color: #FFFFFF;
 }
 
