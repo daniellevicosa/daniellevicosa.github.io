@@ -8,12 +8,21 @@ category: blog
 <section class="work">
   <div class="container">
     <div class="row">
-      <h1>Dear visitor</h1>
+      <div class="post-list-header">
+        <h1>Latest posts</h1>
+      </div>
 
-      <p>
-        Right now, I don't have any post (what a shame), but I am working on it. Please, come back
-        in a few days and you will find some content here.
-      </p>      
+      {% for post in site.posts %}
+        {% if post.category == 'post' %}
+          <div class="post-list">
+            <a class="post-list-title" href="{{ post.url }}">
+              <h2>{{ post.title }}</h2>
+            </a>
+
+            <span class="post-list-date">Published on: {{ post.date | date_to_string }}</span>
+          </div>
+        {% endif %}
+      {% endfor %}
     </div>
   </div>
 </section>

@@ -4,7 +4,12 @@ layout: default
 
 {% include header.html %}
 
+{% if page.content_post %}
+<div class="container post content-post">
+{% else %}
 <div class="container post">
+{% endif %}
+
   {{ content }}
 </div>
 

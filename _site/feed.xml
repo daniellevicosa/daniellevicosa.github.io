@@ -6,9 +6,177 @@
 </description>
     <link>http://daniellevicosa.com/</link>
     <atom:link href="http://daniellevicosa.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 07 Jan 2015 20:49:58 +0100</pubDate>
-    <lastBuildDate>Wed, 07 Jan 2015 20:49:58 +0100</lastBuildDate>
+    <pubDate>Fri, 27 Mar 2015 14:43:00 +0100</pubDate>
+    <lastBuildDate>Fri, 27 Mar 2015 14:43:00 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Creation of iLearn: English</title>
+        <description>&lt;header class=&quot;row post-header post-header-content&quot;&gt;
+  &lt;div class=&quot;col-md-8 col-sm-12 col-xs-12&quot;&gt;
+    &lt;h1 class=&quot;post-header-title&quot;&gt;
+      Creation of iLearn: English
+      &lt;br&gt;
+      &lt;span&gt;Published on: 27 Mar 2015&lt;/span&gt;
+    &lt;/h1&gt;
+  &lt;/div&gt;
+&lt;/header&gt;
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;p&gt;
+      The iLearn English application is an English language learning tool. This app was
+      developed through a partnership with my husband
+      Elvio Vicosa (&lt;a href=&quot;http://elviovicosa.com&quot;&gt;http://elviovicosa.com&lt;/a&gt;), who is a developer.
+    &lt;/p&gt;
+
+    &lt;p&gt;
+      I designed the second version of the app (more details about the release:
+      &lt;a href=&quot;http://elviovicosa.com/blog/2014/03/06/new-version-of-ilearn-english.html&quot;&gt;http://elviovicosa.com/blog/2014/03/06/new-version-of-ilearn-english.html&lt;/a&gt;).
+      At that time, I was starting my studies about design and UX, and I used the lessons
+      I learned during this period to bring the second version of iLearn to life.
+    &lt;/p&gt;
+
+    &lt;p&gt;
+      On this post, I would like to share how the process of redesign the application took place
+      and also give a bit of information about what motivated each change.
+    &lt;/p&gt;
+
+    &lt;h2&gt;Challenges&lt;/h2&gt;
+
+    &lt;p&gt;I had a few challenges in the course of its development, like:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Best practices when designing for iOS&lt;/li&gt;
+      &lt;li&gt;What&#39;s the best screen flow&lt;/li&gt;
+      &lt;li&gt;How to deal with different screen sizes&lt;/li&gt;
+      &lt;li&gt;Where to find great work I could study&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;Despite all the challenges, everything that I designed was based on two
+    constants: simplicity and usefulness. I&#39;ve done many different versions of the same screen,
+    over and over, but all of them were focusing on simplicity and usefulness.&lt;/p&gt;
+
+    &lt;h2&gt;Branding&lt;/h2&gt;
+
+    &lt;figure class=&quot;width-40&quot;&gt;
+      &lt;img src=&quot;/images/blog/ilearn/launch.png&quot;&gt;
+      &lt;figcaption&gt;Left: first version. Right: second version.&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+    &lt;p&gt;In the first version of &quot;iLearn English&quot;, the branding had four different icons: Vocabulary, Writing, Listening and Create word.
+    During the planning of the second version, we discussed the possibility of adding new features beyond the four already existents. Therefore it was necessary to replace the existing branding, supporting the new features.
+    In the new version, I developed a cleaner and intuitive logo that resembles a lamp bulb. It&#39;s meaning refers to many things, like:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Idea&lt;/li&gt;
+      &lt;li&gt;Light&lt;/li&gt;
+      &lt;li&gt;Clarity&lt;/li&gt;
+      &lt;li&gt;Knowledge&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;That&#39;s completely aligned with what the app was built for. The light bulb logo extracts the idea of: &quot;if you click this light bulb icon,
+    you will learn something new&quot;.&lt;/p&gt;
+
+    &lt;figure class=&quot;width-40&quot;&gt;
+      &lt;img src=&quot;/images/blog/ilearn/logo.png&quot;&gt;
+      &lt;figcaption&gt;Left: first version. Right: second version.&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+    &lt;p&gt;The orange color was used as the main color. It is vibrant, symbolizes change, movement, vitality and interactivity. In design,
+    the orange color commands attention without becoming aggressive as the red color, thus it&#39;s considered friendly and inviting.&lt;/p&gt;
+
+    &lt;h3&gt;Typography&lt;/h3&gt;
+
+    &lt;figure class=&quot;width-30&quot;&gt;
+      &lt;img src=&quot;/images/blog/ilearn/typography.png&quot;&gt;
+    &lt;/figure&gt;
+
+    &lt;p&gt;The typography used for both branding and the application was Helvetica, because it is a neutral font. It&#39;s
+    clear and without intrinsic meaning in its form. In order to create hierarchy distinction, I used different
+    styles and sizes when designing the app.&lt;/p&gt;
+
+    &lt;p&gt;The font size has varied according to different uses, but its size was always larger than 11 points, as recommended by
+    iOS Human Interface Guidelines - &lt;a href=&quot;http://bit.ly/1v8ZU9q&quot; rel=&quot;noreferrer&quot;&gt;http://bit.ly/1v8ZU9q&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;h3&gt;Colors&lt;/h3&gt;
+
+    &lt;figure class=&quot;width-50&quot;&gt;
+      &lt;img src=&quot;/images/blog/ilearn/color.png&quot;&gt;
+      &lt;figcaption&gt;Color palete&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+    &lt;p&gt;
+      The color palette is composed of simple colors, which allows the user to focus on the content without distraction. The
+    predominant colors are: orange, white, blank and dark gray. They are used in a way that promotes the content understanding,
+    as well as text readability.
+    &lt;/p&gt;
+
+    &lt;h2&gt;User Experience&lt;/h2&gt;
+
+    &lt;h3&gt;Menu&lt;/h3&gt;
+
+    &lt;figure class=&quot;width-40&quot;&gt;
+      &lt;img src=&quot;/images/blog/ilearn/home.png&quot;&gt;
+      &lt;figcaption&gt;Left: first version. Right: second version.&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+    &lt;p&gt;The first version of iLearn, the menu had too many things, being polluted and confuse. Beyond the needed buttons to access the application tools, it also included bar charts about the user progress. Those charts were
+    progress bars without any information regarding its meaning, so it was mostly confusing than useful. &lt;/p&gt;
+
+    &lt;p&gt;I decided to clean this screen up, removing all the unnecessary elements from it, showing only the items that were extremelly important for the user. Cuting the extra fat of it helped to reduce the cognitive complexity
+    of using the app&#39;s menu, making it simple to the user to understand and use it.&lt;/p&gt;
+
+    &lt;h3&gt;Vocabulary&lt;/h3&gt;
+
+    &lt;figure class=&quot;width-80&quot;&gt;
+      &lt;img src=&quot;/images/blog/ilearn/vocabulary.png&quot;&gt;
+      &lt;figcaption&gt;Left: first version. Right: second version.&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+    &lt;p&gt;I designed the screen &quot;vocabulary&quot; using a white background, which allow a better view of content and hierarchy of events. The screen is extremelly clean, showing only the title of the tool (on this case &quot;Vocabulary&quot;), the word
+    the user is being tested on and the positive and negative buttons.
+    The &quot;Vocabulary&quot; tool allows the user to check if she/he knows a word already. In case she/he doesn&#39;t, then the a full screen image is shown together with
+    the word spelling sound.&lt;/p&gt;
+
+    &lt;h3&gt;Listening&lt;/h3&gt;
+
+    &lt;figure class=&quot;width-40&quot;&gt;
+      &lt;img src=&quot;/images/blog/ilearn/listening.png&quot;&gt;
+      &lt;figcaption&gt;Left: first version. Right: second version.&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+
+    &lt;p&gt;This screen was reviwed to put the entire focus on the images being presented. The entire screen is filled with the four images the user will have to select after listening the word. In order to present the word together with
+    the image, I used a white/translucent white strip on top of it. When the user is playing with this tool, the most important thing is the image, for that reason I treated the word as an auxiliary element.&lt;/p&gt;
+
+    &lt;h3&gt;Writting&lt;/h3&gt;
+
+    &lt;figure class=&quot;width-40&quot;&gt;
+      &lt;img src=&quot;/images/blog/ilearn/writing.png&quot;&gt;
+      &lt;figcaption&gt;Left: first version. Right: second version.&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+    &lt;p&gt;This tool was redesigned to be more aligned with the iOS look and feel. The first thing I designed was a more appealing keyboard, similar to the one that&#39;s part of iOS. The second thing was to give the real importance to
+    the content, on this case the image. The image covers the entire screen, it can be seen even behind the keyboard. One key improvement of the user experience was the addition to the screen that shows what the user
+    has typed wrong, in case the user makes a typo.&lt;/p&gt;
+
+    &lt;h3&gt;Featured by Abduzeedo&lt;/h3&gt;
+    &lt;p&gt;
+      I was quite happy to discover that iLearn was featured by Abduzeedo, a well-known and respected blog
+      about design: &lt;a href=&quot;http://abduzeedo.com/weekly-apps-yplan-flink-ilearn-and-more&quot;&gt;http://abduzeedo.com/weekly-apps-yplan-flink-ilearn-and-more&lt;/a&gt;.
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 27 Mar 2015 00:00:00 +0100</pubDate>
+        <link>http://daniellevicosa.com/post/ilearn-english</link>
+        <guid isPermaLink="true">http://daniellevicosa.com/post/ilearn-english</guid>
+        
+        
+        <category>post</category>
+        
+      </item>
     
       <item>
         <title>My First Post</title>
