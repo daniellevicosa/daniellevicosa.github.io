@@ -13,8 +13,11 @@ layout: default
   {{ content }}
 </div>
 
-<div class="container browser">
-  {% include browser.html %}
-</div>
+{% if page.category == 'post' %}
+{% else %}
+  <div class="container browser">
+    {% include browser.html %}
+  </div>
+{% endif %}
 
 {% include footer.html %}

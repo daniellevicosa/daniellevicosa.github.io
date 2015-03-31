@@ -11,7 +11,15 @@
     {% endif %}
   </title>
 
-  <meta name="description" content="{{ site.description }}">
+  {% if page.description %}
+    <meta name="description" content="{{ page.description }}">
+  {% else %}
+    <meta name="description" content="My name is Danielle Vicosa and live and work in Berlin, Germany.
+              I design mobile and web applications and my is passion to transform challenging
+              requirements into human and intuitive experiences. I believe that a good
+              design can impact other peoples lives in a positive and useful way.">
+  {% endif %}
+
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
   <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>

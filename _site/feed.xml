@@ -6,9 +6,209 @@
 </description>
     <link>http://daniellevicosa.com/</link>
     <atom:link href="http://daniellevicosa.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 27 Mar 2015 14:46:32 +0100</pubDate>
-    <lastBuildDate>Fri, 27 Mar 2015 14:46:32 +0100</lastBuildDate>
+    <pubDate>Wed, 01 Apr 2015 13:43:03 +0200</pubDate>
+    <lastBuildDate>Wed, 01 Apr 2015 13:43:03 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Creation of Mamae</title>
+        <description>&lt;header class=&quot;row post-header post-header-content&quot;&gt;
+  &lt;div class=&quot;col-md-8 col-sm-12 col-xs-12&quot;&gt;
+    &lt;h1 class=&quot;post-header-title&quot;&gt;
+      Creation of Mamae
+      &lt;br&gt;
+      &lt;span&gt;Published on: 31 Mar 2015&lt;/span&gt;
+    &lt;/h1&gt;
+  &lt;/div&gt;
+&lt;/header&gt;
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;p&gt;
+      My &lt;a href=&quot;http://elviovicosa.com&quot;&gt;husband&lt;/a&gt; and I came up with the idea of building an useful iOS application. Useful in a sense that it would really help someone. After some time
+      researching about potential apps, we decided to build an app to help moms to track their baby&#39;s daily activities, with the following features:
+      Breastfeeding, Diapers, Bottle, Pump and Nursing.
+    &lt;/p&gt;
+
+    &lt;p&gt;
+      &lt;a href=&quot;http://mamaeapp.com&quot;&gt;Mamae&lt;/a&gt; is the second iOS application I design and the first one using &lt;a href=&quot;http://bohemiancoding.com/sketch/&quot;&gt;Sketch&lt;/a&gt;. It was an amazing experience to
+      design this app from scratch. Differently from &lt;a href=&quot;http://www.ilearnenglishapp.com&quot;&gt;iLearn: English&lt;/a&gt;, Mamae allows the users to unlock features with &lt;a href=&quot;https://developer.apple.com/in-app-purchase/&quot;&gt;In-App Purchases&lt;/a&gt;.
+    &lt;/p&gt;
+
+    &lt;figure class=&quot;width-50&quot;&gt;
+      &lt;img src=&quot;/images/blog/mamae/app_store.png&quot;&gt;
+      &lt;figcaption&gt;Mamae featured on the iTunes AppStore.&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+    &lt;p&gt;
+      At the time of writing this blog post, Mamae is featured in the &quot;What&#39;s Hot&quot; medical category on the iTunes AppStore.
+    &lt;/p&gt;
+
+    &lt;p&gt;
+      Before I start designing the app, I spent a considerable amount of time reading scientific papers about baby growth and the interaction between
+       mom and baby. It helped me to understand more the daily needs of a mother with a new born baby. One of those discoveries was the fact that
+       the first five minutes of breast-feeding does not contain lots of nutrients, but it is extremely important to the baby&#39;s correct hydration.
+      I also learned that a balanced breast-feeding pattern could prevent mastitis (&lt;a href=&quot;http://en.wikipedia.org/wiki/Mastitis&quot;&gt;http://en.wikipedia.org/wiki/Mastitis&lt;/a&gt;),
+      and that moms struggled to keep track of their breast-feeding session times.
+    &lt;/p&gt;
+
+    &lt;p&gt;
+      Besides all the scientific content that I collected about the topics the application would cover, I also spent some time
+      understanding the routine of a mother with a new born. Reading many forums, I discovered that mothers are usually tired and sleepy, and often
+      they need to take notes about their baby&#39;s routine during the night, without making noise. They usually have only one hand available,
+      since they need to take care of the most important thing of their lives with the other one.
+    &lt;/p&gt;
+
+    &lt;p&gt;
+      After one week or so, I had enough information to define the focus and priorities of Mamae. The application was designed since the beginning to be the most
+      practical, simple and easy digital assistant a mother could use. Everything, from the colors to the text size were thought with a specific
+      Persona (&lt;a href=&quot;http://en.wikipedia.org/wiki/Persona_(user_experience)&quot;&gt;http://en.wikipedia.org/wiki/Persona_(user_experience)&lt;/a&gt;) in mind.
+    &lt;/p&gt;
+
+    &lt;p&gt;
+      Going to the opposite way of similar applications, I iterated over and over again until I had removed everything that was not needed to be in
+      the application. In the end, only the extremely necessary elements were kept.
+    &lt;/p&gt;
+
+
+    &lt;h2&gt;Branding&lt;/h2&gt;
+
+    &lt;figure class=&quot;width-20 with-border&quot;&gt;
+      &lt;img src=&quot;/images/blog/mamae/home.png&quot;&gt;
+      &lt;figcaption&gt;Launch screen.&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+    &lt;p&gt;
+      All the elements were designed to transmit a feeling of handcrafted. The colors were selected to be the main tool on communicating the
+      context the mom currently is.
+    &lt;/p&gt;
+
+    &lt;h3&gt;Colors&lt;/h3&gt;
+
+    &lt;figure class=&quot;width-50&quot;&gt;
+      &lt;img src=&quot;/images/blog/mamae/color.png&quot;&gt;
+      &lt;figcaption&gt;Color palete&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+    &lt;p&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Pink: affection, charming, feminine, tenderness, gentleness, affection, love, intimacy and contact.&lt;/li&gt;
+        &lt;li&gt;Purple: tranquility, night, serenity and calm.&lt;/li&gt;
+        &lt;li&gt;Blue: stable, calm, liquids and transparency.&lt;/li&gt;
+        &lt;li&gt;Yellow: warning, cheerful, child, energetic.&lt;/li&gt;
+        &lt;li&gt;Green: health, balance, relaxation and security.&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/p&gt;
+
+    &lt;figure class=&quot;width-20 with-border&quot;&gt;
+      &lt;img src=&quot;/images/blog/mamae/menu.png&quot;&gt;
+      &lt;figcaption&gt;Menu.&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+    &lt;p&gt;
+      The color contrast is one of the most important things to keep in mind when designing an app for a tired mother. All the colors were chosen to allow not only a good
+      context reference, but also to make it easy to communicate the needed information. Since the app is data focused, it was extremelly important
+      to make it easy to access, visualize and understand the data displayed by it.
+    &lt;/p&gt;
+
+    &lt;h3&gt;Typography&lt;/h3&gt;
+
+    &lt;figure class=&quot;width-30&quot;&gt;
+      &lt;img src=&quot;/images/blog/mamae/typography.png&quot;&gt;
+    &lt;/figure&gt;
+
+    &lt;p&gt;
+      Almost 98% of the content in the app is displayed using Helvetica. Designed in 1957 by Max Miedinger (and probably the most used typeface in the world),
+      it is simple and clean, perfect to display the numerical data that Mamae is filled with.
+    &lt;/p&gt;
+
+    &lt;h3&gt;Logo&lt;/h3&gt;
+
+    &lt;figure class=&quot;width-20&quot;&gt;
+      &lt;img src=&quot;/images/blog/mamae/logo.png&quot;&gt;
+    &lt;/figure&gt;
+
+    &lt;p&gt;
+      When I think about my mother, a few things come to my mind, like:
+      love, care, respect, elegance, humbleness, affection, etc. The challenge of describing it all with one image is tough. I chose a simple,
+      humble and hand-designed heart.
+    &lt;/p&gt;
+
+    &lt;h3&gt;Instruments&lt;/h3&gt;
+
+    &lt;figure class=&quot;width-20 with-border&quot;&gt;
+      &lt;img src=&quot;/images/blog/mamae/nursing.png&quot;&gt;
+      &lt;figcaption&gt;Nursing instrument.&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+    &lt;p&gt;
+      Mamae app contains five instruments: Nursing, Bottle, Pumping, Diaper and Sleep. Each instrument allows the mother to save information about her baby. When
+      the mother enters in any instrument section, she is able to see all the important information at once.
+    &lt;/p&gt;
+
+    &lt;p&gt;
+      In case of Nursing, she&#39;s able to see which breast
+      was used to the last breast-feeding session and also information about the date, time and duration of it. The section also offers huge action buttons, where the mom can
+      easily access the core functions of the instrument.
+    &lt;/p&gt;
+
+    &lt;figure class=&quot;width-20 with-border&quot;&gt;
+      &lt;img src=&quot;/images/blog/mamae/nursing_timer.png&quot;&gt;
+      &lt;figcaption&gt;Nursing instrument timer.&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+    &lt;p&gt;
+      Using the Nursing section as an example, the mom is able to quickly start a new breast-feeding session
+      by choosing &quot;Left&quot; or &quot;Right&quot;. The action of touching on any of those button will start the timer. The UI always focus
+      on the most important information in the current context.
+    &lt;/p&gt;
+
+    &lt;h3&gt;Charts&lt;/h3&gt;
+
+    &lt;figure class=&quot;width-40 with-border&quot;&gt;
+      &lt;img src=&quot;/images/blog/mamae/nursing_chart.png&quot;&gt;
+      &lt;figcaption&gt;Nursing chart.&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+    &lt;p&gt;
+      Displaying raw data to the mom is OK, she&#39;s able to see the latest items and take action based on that. But what happens if she wants to better understand
+      her baby patterns for the last month? What about last year? That&#39;s where a nice chart view comes to the stage. If you take a look on similar apps,
+      you will find confuse and extremely bloated charts, that I believe only extremely stats-savvy moms would be able to use.
+    &lt;/p&gt;
+
+    &lt;p&gt;
+      I decided to design the simplest and cleanest chart I could image, to give quick and easy access to her baby&#39;s pattern.
+      To get to the chart view, the mom only needs to go to the instrument
+      she wants to have more information (e.g. open the Nursing instrument) and put her iOS device in landscape. The nice thing about it, is that the mom can
+      easily get to the chart with only one hand, and there is no specific UI element to be &quot;touched&quot; in order to get to the chart.
+    &lt;/p&gt;
+
+    &lt;h2&gt;Press&lt;/h2&gt;
+
+      &lt;p&gt;
+        A few mentions where Mamae was featured at:
+      &lt;/p&gt;
+
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&quot;http://www.playmagazine.info/sites-week-towa-tile-compass-cultura/&quot;&gt;PlayMagazine - &quot;Sites of the week&quot;&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;http://abduzeedo.com/weekly-apps-line-toss-hyperlapse-mamae-and-more&quot;&gt;Abduzeedo - &quot;Weekly apps&quot;&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;http://culttt.com/2014/09/26/design-inspiration-156/&quot;&gt;Culttt - &quot;Design Inspiration&quot;&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;http://www.trendhunter.com/trends/apps-for-mom&quot;&gt;TrendHunter - &quot;Review&quot;&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;https://macmagazine.com.br/2014/10/08/mamae-e-um-aplicativo-que-lhe-ajuda-a-monitorar-todas-as-atividades-do-seu-bebe/&quot;&gt;MacMagazine - &quot;Avaliação&quot;&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;http://www.aplicativosdesaude.com.br/mamae-aplicativo-para-mae/&quot;&gt;Aplicativos de Saúde - &quot;Avaliação&quot;&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;http://www.techtudo.com.br/tudo-sobre/mamae.html&quot;&gt;TechTudo - &quot;Avaliação&quot;&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 31 Mar 2015 00:00:00 +0200</pubDate>
+        <link>http://daniellevicosa.com/post/mamae-app</link>
+        <guid isPermaLink="true">http://daniellevicosa.com/post/mamae-app</guid>
+        
+        
+        <category>post</category>
+        
+      </item>
     
       <item>
         <title>Creation of iLearn: English</title>
@@ -25,9 +225,8 @@
 &lt;div class=&quot;row post-content&quot;&gt;
   &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
     &lt;p&gt;
-      The iLearn English application is an English language learning tool. This app was
-      developed through a partnership with my husband
-      Elvio Vicosa (&lt;a href=&quot;http://elviovicosa.com&quot;&gt;http://elviovicosa.com&lt;/a&gt;), who is a developer.
+      &quot;iLearn: English&quot; (&lt;a href=&quot;http://www.ilearnenglishapp.com/&quot;&gt;http://www.ilearnenglishapp.com/&lt;/a&gt;) is an iOS application to help people to learn the English language. This app was
+      developed through a partnership with my husband Elvio Vicosa (&lt;a href=&quot;http://elviovicosa.com&quot;&gt;http://elviovicosa.com&lt;/a&gt;), who is a developer.
     &lt;/p&gt;
 
     &lt;p&gt;

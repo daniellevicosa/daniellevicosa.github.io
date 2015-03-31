@@ -331,6 +331,10 @@ ul {
   width: 200px;
 }
 
+.post-list {
+  margin-bottom: 20px;  
+}
+
 .post-list-header {
   margin-bottom: 50px;
 }
@@ -416,6 +420,10 @@ ul {
 
 .post-content figure.width-80 img {
   width: 85%;
+}
+
+.post-content figure.with-border img {
+  border: 1px solid #EEE;
 }
 
 .post-content  img {
