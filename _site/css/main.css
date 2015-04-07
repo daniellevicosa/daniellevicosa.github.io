@@ -172,6 +172,10 @@ ul {
   .avatar img {
     width: 100%;
   }
+
+  .post-list, .post-list-header {
+    padding: 0px 40px;
+  }
 }
 
 @media (min-width: 768px) and (max-width: 992px) {
@@ -192,6 +196,25 @@ ul {
   .avatar img {
     width: 100%;
   }
+
+  .post-list, .post-list-header {
+    padding: 0px 40px;
+  }
+
+  .container.content-post {
+    width: 95%;
+    overflow: hidden;
+  }
+}
+
+@media (max-width: 850px) {
+  .post-content figure img {
+    width: 50% !important;
+  }
+
+  .container.content-post {
+    overflow: hidden;
+  }
 }
 
 @media (max-width: 500px) {
@@ -201,6 +224,19 @@ ul {
 
   .logo {
     width: 70%;
+  }
+
+  .post-list, .post-list-header {
+    padding: 0px 40px;
+  }
+
+  .container.content-post {
+    width: 95%;
+    overflow: hidden;
+  }
+
+  .post-content figure img {
+    width: 90% !important;
   }
 }
 
@@ -332,7 +368,7 @@ ul {
 }
 
 .post-list {
-  margin-bottom: 20px;  
+  margin-bottom: 20px;
 }
 
 .post-list-header {
@@ -406,11 +442,21 @@ ul {
 }
 
 .post-content figure.width-80 img {
+  max-width: 700px;
   width: 80%;
 }
 
-.post-content figure.width-80 img {
-  max-width: 700px;
+.post-content figure.width-90 img {
+  max-width: 800px;
+  width: 90%;
+}
+
+.post-content figure.width-100 img {
+  max-width: 900px;
+  width: 100%;
+}
+
+.post-content figure.width-80 img, .post-content figure.width-90 img, .post-content figure.width-100 img {
   min-width: 250px;
 }
 
