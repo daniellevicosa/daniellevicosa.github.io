@@ -14,6 +14,14 @@ function changeIcons() {
   setInterval(changeActiveIcon, 1000);
 };
 
+function setupContentBox() {
+  var workItem = $('.work-item-main').first();
+  $('.work-item-about').width(workItem.width());
+};
+
 $(document).ready(function() {
+  setupContentBox();
   changeIcons();
 });
+
+$(window).resize(setupContentBox);

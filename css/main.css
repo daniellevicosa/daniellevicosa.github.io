@@ -446,6 +446,15 @@ ul {
   width: 80%;
 }
 
+.post-content figure.width-100 img {
+  width: 100%;
+}
+
+.post-content figure.width-60 img {
+  max-width: 700px;
+  width: 60%;
+}
+
 .post-content figure.width-90 img {
   max-width: 800px;
   width: 90%;
@@ -464,9 +473,18 @@ ul {
   width: 50%;
 }
 
+.post-content figure.width-60 img {
+  width: 60%;
+}
+
 .post-content figure.width-80 img {
   width: 85%;
 }
+
+.post-content figure.width-100 img {
+  width: 100%;
+}
+
 
 .post-content figure.with-border img {
   border: 1px solid #EEE;

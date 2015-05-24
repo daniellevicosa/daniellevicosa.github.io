@@ -6,9 +6,228 @@
 </description>
     <link>http://daniellevicosa.com/</link>
     <atom:link href="http://daniellevicosa.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 04 May 2015 21:12:13 +0200</pubDate>
-    <lastBuildDate>Mon, 04 May 2015 21:12:13 +0200</lastBuildDate>
+    <pubDate>Sun, 24 May 2015 17:25:09 +0200</pubDate>
+    <lastBuildDate>Sun, 24 May 2015 17:25:09 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Recicla: Educational Game</title>
+        <description>&lt;header class=&quot;row post-header&quot;&gt;
+  &lt;div class=&quot;col-md-8 col-sm-12 col-xs-12&quot;&gt;
+    &lt;h1 class=&quot;post-header-title&quot;&gt;Recicla Game&lt;/h1&gt;
+    &lt;p class=&quot;post-header-content&quot;&gt;
+      Development of the prototype of an educational iOS game.
+      &quot;Recicla&quot; is a game that teaches children about waste recycling.
+    &lt;/p&gt;
+
+    &lt;p class=&quot;post-header-content&quot;&gt;
+      About: &lt;a href=&quot;/post/recicla/&quot;&gt;Blog post about it&lt;/a&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/header&gt;
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;div class=&quot;expandable-image&quot;&gt;
+      &lt;img src=&quot;/images/work/recicla/1-100.jpg&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-6 col-sm-6&quot;&gt;
+    &lt;div class=&quot;gray expandable-image&quot;&gt;
+      &lt;img src=&quot;/images/work/recicla/felipe.png&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;col-md-6 col-sm-6&quot;&gt;
+    &lt;div class=&quot;gray expandable-image gray&quot;&gt;
+      &lt;img src=&quot;/images/work/recicla/rodolfo.png&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 25 May 2015 00:00:00 +0200</pubDate>
+        <link>http://daniellevicosa.com/work/recicla</link>
+        <guid isPermaLink="true">http://daniellevicosa.com/work/recicla</guid>
+        
+        
+        <category>work</category>
+        
+      </item>
+    
+      <item>
+        <title>Baby Icons Freebies</title>
+        <description>&lt;header class=&quot;row post-header&quot;&gt;
+  &lt;div class=&quot;col-md-8 col-sm-12 col-xs-12&quot;&gt;
+    &lt;h1 class=&quot;post-header-title&quot;&gt;Baby Icons Freebies&lt;/h1&gt;
+    &lt;p class=&quot;post-header-content&quot;&gt;
+      Set of 100 handmade icons designed using &lt;a href=&quot;http://bohemiancoding.com/sketch/&quot;&gt;Sketch&lt;/a&gt;.
+      You can download the files visiting the blog post series:
+    &lt;/p&gt;
+
+    &lt;p class=&quot;post-header-content&quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&quot;/post/baby-icons-freebie-part-1-4/&quot;&gt;Baby Icons Freebie - Part 1/4 &lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/post/baby-icons-freebie-part-2-4/&quot;&gt;Baby Icons Freebie - Part 2/4 &lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/post/baby-icons-freebie-part-3-4/&quot;&gt;Baby Icons Freebie - Part 3/4 &lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/post/baby-icons-freebie-final/&quot;&gt;Baby Icons Freebie - Final &lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/header&gt;
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;div class=&quot;expandable-image&quot;&gt;
+      &lt;img src=&quot;/images/work/icons-freebies/1-100.png&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;div class=&quot;expandable-image&quot;&gt;
+      &lt;img src=&quot;/images/work/icons-freebies/2-100.png&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;div class=&quot;expandable-image&quot;&gt;
+      &lt;img src=&quot;/images/work/icons-freebies/3-100.png&quot;&gt;&lt;/img&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 25 May 2015 00:00:00 +0200</pubDate>
+        <link>http://daniellevicosa.com/work/baby-icons-freebies</link>
+        <guid isPermaLink="true">http://daniellevicosa.com/work/baby-icons-freebies</guid>
+        
+        
+        <category>work</category>
+        
+      </item>
+    
+      <item>
+        <title>Recicla: Educational Game</title>
+        <description>&lt;header class=&quot;row post-header post-header-content&quot;&gt;
+  &lt;div class=&quot;col-md-8 col-sm-12 col-xs-12&quot;&gt;
+    &lt;h1 class=&quot;post-header-title&quot;&gt;
+      Recicla: Educational Game
+      &lt;br&gt;
+      &lt;span&gt;Published on: 24 May 2015&lt;/span&gt;
+    &lt;/h1&gt;
+  &lt;/div&gt;
+&lt;/header&gt;
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+
+    &lt;p&gt;
+    A few days ago, I watched a &lt;a href=&quot;http://g1.globo.com/jornal-hoje/noticia/2015/04/apenas-3-de-todo-o-lixo-produzido-no-brasil-e-reciclado.html&quot;&gt;video&lt;/a&gt; (Portuguese only) about the percentage of garbage that is recycled in Brazil.
+    &lt;/p&gt;
+
+    &lt;p&gt;
+    Basically, only 3% of all waste produced in Brazil is recycled (yes, this number is right, it’s not a typo). It means that only 2.3 millions tons (out of 76 millions tons) are recycled in Brazil and the remaining 97% is thrown in rivers, cities and landfill sites.
+    &lt;/p&gt;
+
+    &lt;p&gt;
+    Motivated by the proximity of the &lt;a href=&quot;http://en.wikipedia.org/wiki/World_Environment_Day&quot;&gt;World Environment Day&lt;/a&gt;, celebrated on June 5, I decided to work in the development of “Recicla”, an iOS educational game to help children to learn more about recycling. The idea of the game is quite simple: be fun and easy to learn about garbage recycling.
+    &lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;figure class=&quot;width-80&quot;&gt;
+      &lt;img src=&quot;/images/blog/recicla/2.png&quot;&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;p&gt;
+    I designed two interactive characters: Felipe (penguin) and Rodolfo (walrus). Global warming is making their lives really hard, so they will help children to learn about recycling, and this way, help the planet to become a better place to everyone.
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;figure class=&quot;width-80&quot;&gt;
+      &lt;img src=&quot;/images/blog/recicla/3.png&quot;&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;p&gt;
+    The children can choose which character they want to play. After that, they will learn about the types of waste and how they can be recycled. They learn about the different trash cans and the purpose of each one.
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;figure class=&quot;width-80&quot;&gt;
+      &lt;img src=&quot;/images/blog/recicla/4.png&quot;&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;p&gt;
+    Once they learned the basics about recycling, they will start recycling the waste by themselves, dragging a specific item to the right trash can. Both success and failures are highlighted by different animations of the characters. Their goal is to help the children to understand about the recycling options.
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;figure class=&quot;width-80&quot;&gt;
+      &lt;img src=&quot;/images/blog/recicla/5.png&quot;&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;p&gt;
+    Words such as recycling, sustainability and social responsibility permeates our vocabulary and become part of our day to day. One way to promote sustainable development and minimize the impact on nature is the reuse of recyclable materials, thus avoiding greater extraction of natural resources and generation of waste that cause damage to the planet.
+    &lt;/p&gt;
+
+    &lt;p&gt;
+    The Recicla application, encourages sustainability through environmental education incorporated into the theme of recycling waste. Hopefully soon, we will see it available on the iTunes App Store.
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row post-content&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
+    &lt;figure class=&quot;width-100&quot;&gt;
+      &lt;img src=&quot;/images/blog/recicla/6.png&quot;&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 24 May 2015 00:00:00 +0200</pubDate>
+        <link>http://daniellevicosa.com/post/recicla</link>
+        <guid isPermaLink="true">http://daniellevicosa.com/post/recicla</guid>
+        
+        
+        <category>post</category>
+        
+      </item>
     
       <item>
         <title>Baby Icons Freebie - Final</title>
@@ -706,251 +925,6 @@
         
         
         <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Movie Discovery (prototype)</title>
-        <description>&lt;header class=&quot;row post-header&quot;&gt;
-  &lt;div class=&quot;col-md-8 col-sm-12 col-xs-12&quot;&gt;
-    &lt;h1 class=&quot;post-header-title&quot;&gt;Movie Discovery&lt;/h1&gt;
-    &lt;p class=&quot;post-header-content&quot;&gt;
-      Development of the prototype of an iOS app. &quot;Movie Discovery&quot; is an iOS application
-      that allow users to find good movies and series to watch, filtering by different criterias.
-    &lt;/p&gt;
-  &lt;/div&gt;
-&lt;/header&gt;
-
-&lt;div class=&quot;row post-content&quot;&gt;
-  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
-    &lt;div class=&quot;expandable-image&quot;&gt;
-      &lt;img src=&quot;/images/work/movie-discovery/1-100.jpg&quot;&gt;&lt;/img&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row post-content&quot;&gt;
-  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
-    &lt;div class=&quot;expandable-image&quot;&gt;
-      &lt;img src=&quot;/images/work/movie-discovery/2-100.jpg&quot;&gt;&lt;/img&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row post-content&quot;&gt;
-  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
-    &lt;div class=&quot;expandable-image&quot;&gt;
-      &lt;img src=&quot;/images/work/movie-discovery/3-100.jpg&quot;&gt;&lt;/img&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row post-content&quot;&gt;
-  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
-    &lt;div class=&quot;expandable-image&quot;&gt;
-      &lt;img src=&quot;/images/work/movie-discovery/4-100.jpg&quot;&gt;&lt;/img&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 16 Sep 2014 00:00:00 +0200</pubDate>
-        <link>http://daniellevicosa.com/work/movie-discovery</link>
-        <guid isPermaLink="true">http://daniellevicosa.com/work/movie-discovery</guid>
-        
-        
-        <category>work</category>
-        
-      </item>
-    
-      <item>
-        <title>Mamae - mamaeapp.com</title>
-        <description>&lt;header class=&quot;row post-header&quot;&gt;
-  &lt;div class=&quot;col-md-8 col-sm-12 col-xs-12&quot;&gt;
-    &lt;h1 class=&quot;post-header-title&quot;&gt;Mamae&lt;/h1&gt;
-    &lt;p class=&quot;post-header-content&quot;&gt;
-      Development of the iOS app, dashboard and promotional website design. &quot;Mamae&quot; helps moms
-      to keep track of their baby&#39;s daily activities in an easy way.
-    &lt;/p&gt;
-
-    &lt;p class=&quot;post-header-content&quot;&gt;
-      Site: &lt;a href=&quot;http://www.mamaeapp.com&quot;&gt;www.mamaeapp.com&lt;/a&gt;
-    &lt;/p&gt;
-
-    &lt;p class=&quot;post-header-content&quot;&gt;
-      &lt;a href=&quot;https://itunes.apple.com/us/app/mamae-nursing-pumping-bottle/id905005550?mt=8&amp;uo=4&quot;&gt;
-        &lt;img class=&quot;apple_button&quot; src=&quot;/images/apple_button.svg&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/p&gt;
-  &lt;/div&gt;
-&lt;/header&gt;
-
-&lt;div class=&quot;row post-content&quot;&gt;
-  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
-    &lt;div class=&quot;expandable-image&quot;&gt;
-      &lt;img src=&quot;/images/work/mamae/1-100.jpg&quot;&gt;&lt;/img&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row post-content&quot;&gt;
-  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
-    &lt;div class=&quot;expandable-image&quot;&gt;
-      &lt;img src=&quot;/images/work/mamae/2-100.jpg&quot;&gt;&lt;/img&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row post-content&quot;&gt;
-  &lt;div class=&quot;col-md-6 col-sm-6&quot;&gt;
-    &lt;div class=&quot;icons-slide expandable-image gray&quot;&gt;
-      &lt;img src=&quot;/images/work/mamae/icons/1.png&quot;&gt;&lt;/img&gt;
-      &lt;img src=&quot;/images/work/mamae/icons/2.png&quot;&gt;&lt;/img&gt;
-      &lt;img src=&quot;/images/work/mamae/icons/3.png&quot;&gt;&lt;/img&gt;
-      &lt;img src=&quot;/images/work/mamae/icons/4.png&quot;&gt;&lt;/img&gt;
-      &lt;img src=&quot;/images/work/mamae/icons/5.png&quot;&gt;&lt;/img&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-
-  &lt;div class=&quot;col-md-6 col-sm-6&quot;&gt;
-    &lt;div class=&quot;gray expandable-image&quot;&gt;
-      &lt;img src=&quot;/images/work/mamae/3-50.png&quot;&gt;&lt;/img&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row post-content&quot;&gt;
-  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
-    &lt;div class=&quot;expandable-image&quot;&gt;
-      &lt;img src=&quot;/images/work/mamae/4-100.jpg&quot;&gt;&lt;/img&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row post-content&quot;&gt;
-  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
-    &lt;div class=&quot;expandable-image&quot;&gt;
-      &lt;img src=&quot;/images/work/mamae/5-100.jpg&quot;&gt;&lt;/img&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row post-content&quot;&gt;
-  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
-    &lt;div class=&quot;expandable-image&quot;&gt;
-      &lt;img src=&quot;/images/work/mamae/6-100.jpg&quot;&gt;&lt;/img&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row post-content&quot;&gt;
-  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
-    &lt;div class=&quot;expandable-image&quot;&gt;
-      &lt;img src=&quot;/images/work/mamae/7-100.jpg&quot;&gt;&lt;/img&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 16 Sep 2014 00:00:00 +0200</pubDate>
-        <link>http://daniellevicosa.com/work/mamae</link>
-        <guid isPermaLink="true">http://daniellevicosa.com/work/mamae</guid>
-        
-        
-        <category>work</category>
-        
-      </item>
-    
-      <item>
-        <title>iLearn English - ilearnenglishapp.com</title>
-        <description>&lt;header class=&quot;row post-header&quot;&gt;
-  &lt;div class=&quot;col-md-8 col-sm-12 col-xs-12&quot;&gt;
-    &lt;h1 class=&quot;post-header-title&quot;&gt;iLearn English&lt;/h1&gt;
-    &lt;p class=&quot;post-header-content&quot;&gt;
-      Development of the iOS app and promotional website design. &quot;iLearn: English&quot;
-      is an iOS app that allow users to learn new words and practice their
-      writing and listening skills.
-    &lt;/p&gt;
-
-    &lt;p class=&quot;post-header-content&quot;&gt;
-      Site: &lt;a href=&quot;http://www.ilearnenglishapp.com&quot;&gt;www.ilearnenglishapp.com&lt;/a&gt;
-    &lt;/p&gt;
-
-    &lt;p class=&quot;post-header-content&quot;&gt;
-      &lt;a href=&quot;https://itunes.apple.com/us/app/learn-english-ilearn-english/id624466757?mt=8&amp;uo=4&quot;&gt;
-        &lt;img class=&quot;apple_button&quot; src=&quot;/images/apple_button.svg&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/p&gt;
-
-  &lt;/div&gt;
-&lt;/header&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
-    &lt;div class=&quot;expandable-image&quot;&gt;
-      &lt;img src=&quot;/images/work/ilearn/2-100.jpg&quot;&gt;&lt;/img&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-md-6 col-sm-6&quot;&gt;
-    &lt;div class=&quot;icons-slide expandable-image gray&quot;&gt;
-      &lt;img src=&quot;/images/work/ilearn/icons/1.png&quot;&gt;&lt;/img&gt;
-      &lt;img src=&quot;/images/work/ilearn/icons/2.png&quot;&gt;&lt;/img&gt;
-      &lt;img src=&quot;/images/work/ilearn/icons/3.png&quot;&gt;&lt;/img&gt;
-      &lt;img src=&quot;/images/work/ilearn/icons/4.png&quot;&gt;&lt;/img&gt;
-      &lt;img src=&quot;/images/work/ilearn/icons/5.png&quot;&gt;&lt;/img&gt;
-      &lt;img src=&quot;/images/work/ilearn/icons/6.png&quot;&gt;&lt;/img&gt;
-      &lt;img src=&quot;/images/work/ilearn/icons/7.png&quot;&gt;&lt;/img&gt;
-      &lt;img src=&quot;/images/work/ilearn/icons/8.png&quot;&gt;&lt;/img&gt;
-      &lt;img src=&quot;/images/work/ilearn/icons/9.png&quot;&gt;&lt;/img&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-
-  &lt;div class=&quot;col-md-6 col-sm-6&quot;&gt;
-    &lt;div class=&quot;gray expandable-image&quot;&gt;
-      &lt;img src=&quot;/images/work/ilearn/3-50.png&quot;&gt;&lt;/img&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
-    &lt;div class=&quot;expandable-image&quot;&gt;
-      &lt;img src=&quot;/images/work/ilearn/4-100.jpg&quot;&gt;&lt;/img&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
-    &lt;div class=&quot;expandable-image&quot;&gt;
-      &lt;img src=&quot;/images/work/ilearn/5-100.jpg&quot;&gt;&lt;/img&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
-    &lt;div class=&quot;expandable-image&quot;&gt;
-      &lt;img src=&quot;/images/work/ilearn/6-100.jpg&quot;&gt;&lt;/img&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
-    &lt;div class=&quot;expandable-image&quot;&gt;
-      &lt;img src=&quot;/images/work/ilearn/7-100.jpg&quot;&gt;&lt;/img&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 16 Sep 2014 00:00:00 +0200</pubDate>
-        <link>http://daniellevicosa.com/work/ilearn</link>
-        <guid isPermaLink="true">http://daniellevicosa.com/work/ilearn</guid>
-        
-        
-        <category>work</category>
         
       </item>
     
