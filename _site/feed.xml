@@ -6,14 +6,14 @@
 </description>
     <link>http://daniellevicosa.com/</link>
     <atom:link href="http://daniellevicosa.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 24 May 2015 17:25:09 +0200</pubDate>
-    <lastBuildDate>Sun, 24 May 2015 17:25:09 +0200</lastBuildDate>
+    <pubDate>Sun, 24 May 2015 22:16:52 +0200</pubDate>
+    <lastBuildDate>Sun, 24 May 2015 22:16:52 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Recicla: Educational Game</title>
         <description>&lt;header class=&quot;row post-header&quot;&gt;
-  &lt;div class=&quot;col-md-8 col-sm-12 col-xs-12&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
     &lt;h1 class=&quot;post-header-title&quot;&gt;Recicla Game&lt;/h1&gt;
     &lt;p class=&quot;post-header-content&quot;&gt;
       Development of the prototype of an educational iOS game.
@@ -60,7 +60,7 @@
       <item>
         <title>Baby Icons Freebies</title>
         <description>&lt;header class=&quot;row post-header&quot;&gt;
-  &lt;div class=&quot;col-md-8 col-sm-12 col-xs-12&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
     &lt;h1 class=&quot;post-header-title&quot;&gt;Baby Icons Freebies&lt;/h1&gt;
     &lt;p class=&quot;post-header-content&quot;&gt;
       Set of 100 handmade icons designed using &lt;a href=&quot;http://bohemiancoding.com/sketch/&quot;&gt;Sketch&lt;/a&gt;.
@@ -551,7 +551,7 @@
       <item>
         <title>Creation of Mamae</title>
         <description>&lt;header class=&quot;row post-header post-header-content&quot;&gt;
-  &lt;div class=&quot;col-md-8 col-sm-12 col-xs-12&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
     &lt;h1 class=&quot;post-header-title&quot;&gt;
       Creation of Mamae
       &lt;br&gt;
@@ -751,7 +751,7 @@
       <item>
         <title>Creation of iLearn: English</title>
         <description>&lt;header class=&quot;row post-header post-header-content&quot;&gt;
-  &lt;div class=&quot;col-md-8 col-sm-12 col-xs-12&quot;&gt;
+  &lt;div class=&quot;col-md-12 col-sm-12 col-xs-12&quot;&gt;
     &lt;h1 class=&quot;post-header-title&quot;&gt;
       Creation of iLearn: English
       &lt;br&gt;
